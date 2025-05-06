@@ -12,14 +12,7 @@ I enjoy continual study while participating in and elevating individual/peer pro
 
 ---
 
-**Status:** Back from the wedding! 😊 Stairs are evil. 👎 Long flights equally so. 😵‍💫
-
-What's Happening?
-
-- 🖥️ Working on a super secret Discord bot. Helping other servers consolidate bot bloat.
-- 📚 Studying animation so I can begin crafting Michelin star dishes in WebGL 🍩.
-- 🧳 Diving back into the world of LeetCode.
-- 📫 How to reach me: Any options mentioned above will do! For a faster response I recommend LinkedIn.
+**Status:** I have begun work on a very large scale service I cannot talk about just yet 🤐
 
 <h3>Current Stats</h3>
 <div>
